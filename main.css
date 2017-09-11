@@ -1,0 +1,12 @@
+#game-area {
+    float: left;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+p {
+    font-size: 24px;
+    margin: 10px;
+    float: left;
+}
